@@ -1,0 +1,7 @@
+Python
+
+- For data transformation
+- Data pivoting
+- Sparse data handling
+- ANy to Json 
+- Json to ANy
